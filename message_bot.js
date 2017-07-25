@@ -4,8 +4,8 @@ var okc = new OKCupid()
 
 
 //config stuff
-var username = 'kierkegaardcult'
-var password = 'graveler'
+var username =
+var password =
 var min_age = 20
 var max_age = 35
 var min_percent = 70
